@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "8477906097434fa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c6d3032ce3f22f0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zettelkasten/3 - Notas Permanentes/NP202206142035 - Redes de Computadores 001.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "388a8566b4686ce0",
+    "type": "split",
+    "children": [
+      {
+        "id": "377bf86537ec9ad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c7c725be4227486",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65314a755dfaf1ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ee095adfeab18a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b5b0468929cd57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc4cb51ddb3c0231",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zettelkasten/3 - Notas Permanentes/NP202206142035 - Redes de Computadores 001.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8c6d3032ce3f22f0",
+  "lastOpenFiles": [
+    "zettelkasten/3 - Notas Permanentes/NP202206142035 - Redes de Computadores 001.md",
+    "zettelkasten/2 - Notas Rápidas/NR202206132133 - Distrowatch.md",
+    "zettelkasten/1 - Templates/Notas Rápidas.md",
+    "zettelkasten/1 - Templates/Notas Permanentes.md",
+    "zettelkasten/1 - Templates/Notas de Literatura.md",
+    "zettelkasten/1 - Templates/Notas de Índice.md",
+    "zettelkasten/1 - Templates/Postmortem.md"
+  ]
+}
