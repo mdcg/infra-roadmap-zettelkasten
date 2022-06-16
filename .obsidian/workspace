@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zettelkasten/3 - Notas Permanentes/NP202206142035 - Redes de Computadores 001.md",
+            "file": "zettelkasten/2 - Notas Rápidas/NR202206152311 - Comandos básicos do Linux.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/3 - Notas Permanentes/NP202206142035 - Redes de Computadores 001.md",
+                "file": "zettelkasten/2 - Notas Rápidas/NR202206152311 - Comandos básicos do Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,10 @@
   },
   "active": "8c6d3032ce3f22f0",
   "lastOpenFiles": [
-    "zettelkasten/3 - Notas Permanentes/NP202206142035 - Redes de Computadores 001.md",
+    "zettelkasten/2 - Notas Rápidas/NR202206152311 - Comandos básicos do Linux.md",
+    "zettelkasten/2 - Notas Rápidas/NR202206152309 - Useful Terminal commands Ubuntu - Debian.md",
     "zettelkasten/2 - Notas Rápidas/NR202206132133 - Distrowatch.md",
+    "zettelkasten/3 - Notas Permanentes/NP202206142035 - Redes de Computadores 001.md",
     "zettelkasten/1 - Templates/Notas Rápidas.md",
     "zettelkasten/1 - Templates/Notas Permanentes.md",
     "zettelkasten/1 - Templates/Notas de Literatura.md",
